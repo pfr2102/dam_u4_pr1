@@ -6,8 +6,8 @@ A new Flutter project.
 
 
 
-
-![Image text](blob:https://web.telegram.org/822a8121-479c-4a56-b22e-ae5b671383a4)
+![Image text](https://github.com/pfr2102/ChatbotAPI/blob/main/img/Captura.PNG)
+![Image text](https://media.discordapp.net/attachments/863941384587444305/1131707276202356756/image.png?ex=65a06508&is=658df008&hm=2fd1f73427513a4249989b02c89fd4ace78c7da714b741cb7cc556224d8d0bda&=&format=webp&quality=lossless&width=1426&height=668)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
