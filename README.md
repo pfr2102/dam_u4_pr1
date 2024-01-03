@@ -1,7 +1,7 @@
 # APP GESTION DE BITACORAS
 
 ## Descripción
-Esta aplicación, desarrollada en Flutter, permite la administración eficiente de las bitácoras de préstamos de vehículos o medios de transporte en instituciones. Es compatible con múltiples plataformas, incluyendo Android e iOS.
+Esta aplicación fue desarrollada en Flutter, lo que implica que es compatible con múltiples plataformas, incluyendo Android e iOS. Su objetivo principal es facilitar la gestión de registros de préstamos de vehículos o medios de transporte dentro de una institución
 
 
 ## Getting Started
